@@ -5,4 +5,4 @@
 
 ## Authors
 
-- [@Mattia Alessi](https://www.github.com/octokatherine)
+- [@Mattia Alessi](https://github.com/Mattiakodland)
